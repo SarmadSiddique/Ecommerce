@@ -1,0 +1,27 @@
+
+.content{
+    /* background: url(../assets/shirt1.png);/ */
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+background-size: cover;
+    position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+border: 1px solid grey;
+background-color: rgb(77, 76, 76);
+height: 450px;
+margin-bottom: 10px;
+top: 10px;
+
+
+}
+.button{
+    padding: 0.5rem 0.7rem;
+    border-radius: 0%;
+    background-color: white;
+    color: black;
+    border: none;
+}
